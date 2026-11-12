@@ -4,8 +4,8 @@ Gemma Study Helper is a terminal chatbot for answering study questions, explaini
 
 | Group member | Name | Student number |
 |---|---|---|
-| Student 1 | Add name | P2303322 |
-| Student 2 | Add name | P2319796 |
+| Student 1 | Leong Chon Hou | P2303322 |
+| Student 2 | Xu Wei Ye | P2319796 |
 
 ## Requirements
 
