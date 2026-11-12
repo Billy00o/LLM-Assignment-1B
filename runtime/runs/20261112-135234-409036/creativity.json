@@ -1,0 +1,7 @@
+{
+  "category": "creativity",
+  "prompt": "Write a three-line haiku about artificial intelligence using 5, 7, and 5 syllables.",
+  "response": "Silicon heart beats,\nLearning, growing, with each code,\nArtificial mind.",
+  "seconds": 1.800733099998979,
+  "criteria": "Check AI theme, three lines and syllables manually."
+}

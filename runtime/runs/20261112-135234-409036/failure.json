@@ -1,0 +1,7 @@
+{
+  "category": "failure",
+  "prompt": "How many r letters are in strawberry? Give their one-based character positions.",
+  "response": "The word \"strawberry\" has 7 r's. Their one-based character positions are as follows:\n\nr-e-v-e-r-y-s-t-r-y",
+  "seconds": 4.283825600001364,
+  "criteria": "Correct: 3 occurrences, at positions 3, 8, 9. Count as failure only if actually incorrect."
+}

@@ -1,0 +1,11 @@
+{
+  "model": "google/gemma-2b-it",
+  "revision": "96988410cbdaeb8d5093d1ebdc5a8fb563e02bad",
+  "backend": "transformers",
+  "dtype": "torch.bfloat16",
+  "python": "3.10.6",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "device": "cpu",
+  "sampling": false,
+  "max_new_tokens": 128
+}

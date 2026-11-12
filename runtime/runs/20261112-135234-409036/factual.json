@@ -1,0 +1,7 @@
+{
+  "category": "factual",
+  "prompt": "What is the capital of France?",
+  "response": "The capital of France is Paris. It is the political, economic, and cultural center of the country.",
+  "seconds": 2.196879799999806,
+  "criteria": "Correct answer: Paris."
+}

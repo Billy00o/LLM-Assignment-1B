@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+/testtoken.txt
+*.safetensors
+*.gguf
+runtime/cache/
+runtime/pip-cache/
+runtime/*.log
+runtime/preflight.json
+runtime/runs/*
+!runtime/runs/20261112-135234-409036/

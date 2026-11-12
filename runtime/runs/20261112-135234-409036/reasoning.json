@@ -1,0 +1,7 @@
+{
+  "category": "reasoning",
+  "prompt": "I have 3 apples and give 1 to Mary. How many apples do I have left? Explain briefly.",
+  "response": "You have 2 apples. After giving 1 apple to Mary, you have 3 - 1 = 2 apples.",
+  "seconds": 2.685348299999532,
+  "criteria": "Correct answer: 2, with consistent explanation."
+}
